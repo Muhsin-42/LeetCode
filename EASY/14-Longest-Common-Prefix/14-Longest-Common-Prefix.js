@@ -1,4 +1,7 @@
-
+/**
+ * @param {string[]} strs
+ * @return {string}
+ */
 var longestCommonPrefix = function(strs) {
     let arr = strs.map((str)=>str.length)
     let min = Math.min(...arr)
