@@ -6,7 +6,7 @@ var longestCommonPrefix = function(strs) {
     let arr = strs.map((str)=>str.length)
     let min = Math.min(...arr)
     let flag = 0;
-    let res = [];
+    let res = [];   
     for(let j = 0; j<min; j++){
         let curr = strs[0][j];
         for(let i=0; i< strs.length; i++){
