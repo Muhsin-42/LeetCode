@@ -20,5 +20,4 @@ var longestCommonPrefix = function(strs) {
          res.push(strs[0][j])  
     }
     return res.join('')
-
 };
