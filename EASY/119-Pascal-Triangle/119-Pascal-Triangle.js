@@ -12,4 +12,4 @@ var generate = function(numRows) {
         }
     }
     return pasc
-};
+}; 
