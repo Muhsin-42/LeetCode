@@ -11,5 +11,5 @@ var generate = function(numRows) {
             else pasc[i].push(pasc[i-1][j-1]+pasc[i-1][j])
         }
     }
-    return pasc
+    return pasc 
 }; 
