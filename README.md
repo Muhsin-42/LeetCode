@@ -1,5 +1,4 @@
-"# LeetCode" 
-# LeetCode Solutions
+# LeetCode 
 
 This repository contains my solutions to LeetCode problems. The solutions are categorized into three folders based on the difficulty level: Easy, Medium, and Hard.
 
